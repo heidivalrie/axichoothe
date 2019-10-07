@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://todeimaig.viniciusteles.com/sitemap.xml
